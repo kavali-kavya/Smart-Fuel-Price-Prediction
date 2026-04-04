@@ -3,5 +3,4 @@ NumPy
 Pandas
 Matplotlib
 Scikit-learn
-date
-datetime
+Date
