@@ -1,6 +1,6 @@
-Setuptools
-NumPy
-Pandas
-Matplotlib
-Scikit-learn
-Date
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
